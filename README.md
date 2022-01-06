@@ -1,1 +1,1 @@
-# stock_prediction_LSTM
+## LSTM Method for Stock Price Forecasting
