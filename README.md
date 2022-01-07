@@ -25,5 +25,5 @@ Various parameters of the LSTM model can be tweaked, such as the number of LSTM 
 
 Stock prices are influenced by company news as well as other factors such as demonetization or company mergers and demergers. In addition, many intangible variables are difficult to predict in advance.
 
-![This is an image](https://github.com/y-aoub/stock_prediction_LSTM/blob/main/Results-SNDL.png)
+![This is an image](https://github.com/y-aoub/stock_prediction_LSTM/blob/main/Results-SNDL.png#gh-light-mode-only)
 
