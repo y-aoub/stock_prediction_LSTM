@@ -17,10 +17,9 @@ Various parameters of the LSTM model can be tweaked, such as the number of LSTM 
 Stock prices are influenced by company news as well as other factors such as demonetization or company mergers and demergers. In addition, many intangible variables are difficult to predict in advance.
 
 The code is made up of 6 parts:
-
-**Loading the Data
-Train and Test Split
-Data Preprocessing
-LSTM
-Prediction
-Conclusion**
+**Loading the Data**
+**Train and Test Split**
+**Data Preprocessing**
+**LSTM**
+**Prediction**
+**Conclusion**
