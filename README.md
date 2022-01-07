@@ -10,6 +10,15 @@ Is it possible to use AI to our advantage in this space? AI approaches will pote
 We will work with published information regarding a freely recorded organization’s stock costs in this report.
 We’ll use a combination of AI calculations to forecast a company’s future stock price with LSTM.
 
+The code is made up of 6 parts:
+
+**Loading the Data.**
+**Train and Test Split.**
+**Data Preprocessing.**
+**LSTM.**
+**Prediction.**
+**Conclusion.**
+
 ## Results
 
 Various parameters of the LSTM model can be tweaked, such as the number of LSTM layers, the dropout value, and the number of epochs. Are the LSTM projections, however, precise enough to predict whether the stock price will rise or fall? Without a doubt.
