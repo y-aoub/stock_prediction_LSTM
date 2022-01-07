@@ -17,7 +17,6 @@ The code is made up of 6 parts:
 - **Data Preprocessing.**
 - **LSTM.**
 - **Prediction.**
-- **Conclusion.**
 
 ## Results
 
